@@ -1,5 +1,5 @@
-# DailyCodingProblem
-This repository is used as a collection of my solutions for the [Daily Coding Problem](https://www.dailycodingproblem.com/). Which is an interview preparation service to become better at coding. The service uses real questions ask by top-rier tech companies and startups.
+# Daily Coding Problem
+This repository is used as a collection of my solutions for the [Daily Coding Problem](https://www.dailycodingproblem.com/). Which is an interview preparation service to become better at coding. The service uses real questions ask by top-tier tech companies and startups.
 
 ## How it works
 1. Sign up
